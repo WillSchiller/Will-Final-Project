@@ -30,7 +30,11 @@ The front is built with Next.js and Typescript. it provides a connection to the 
 
 ## Testing
 
-The dapp is deployed and working on devnet. It included update for location in the ui and full integration with smart contracts. 
+The dapp is deployed and working on devnet. It included update for location in the ui and full integration with smart contracts. **You can check it out here! --> https://main--zesty-praline-49c439.netlify.app/** 
+
+You can find the program here: https://explorer.solana.com/address/AMszXBZPi3Fa9vPe4vhriW5YTEf8ipymZzRN9cfk6jFk?cluster=devnet
+
+
 
 
 ## Getting Started
